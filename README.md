@@ -51,12 +51,12 @@ connected!
 ```
 Open `primus-objc-swift-helloworld.xcworkspace` with XCode and run then console will show...
 ```
-2015-05-19 17:23:34.853 primus-obj-swift-helloworld[12767:1889850] [open] - The connection has been established.
-2015-05-19 17:23:34.855 primus-obj-swift-helloworld[12767:1889850] [data] - Received data: {
+2015-05-19 17:23:34.853 primus-objc-swift-helloworld[12767:1889850] [open] - The connection has been established.
+2015-05-19 17:23:34.855 primus-objc-swift-helloworld[12767:1889850] [data] - Received data: {
     context = api;
     welcome = "Hello! Welcome to the actionhero api";
 }
-2015-05-19 17:23:34.857 primus-obj-swift-helloworld[12767:1889850] [data] - Received data: {
+2015-05-19 17:23:34.857 primus-objc-swift-helloworld[12767:1889850] [data] - Received data: {
     context = response;
     data =     {
         connectedAt = 1432031014837;
@@ -74,18 +74,18 @@ Open `primus-objc-swift-helloworld.xcworkspace` with XCode and run then console 
     messageCount = 1;
     status = OK;
 }
-2015-05-19 17:23:34.866 primus-obj-swift-helloworld[12767:1889850] [data] - Received data: {
+2015-05-19 17:23:34.866 primus-objc-swift-helloworld[12767:1889850] [data] - Received data: {
     context = response;
     data = 1;
     messageCount = 2;
     status = OK;
 }
-2015-05-19 17:23:34.869 primus-obj-swift-helloworld[12767:1889850] [data] - Received data: {
+2015-05-19 17:23:34.869 primus-objc-swift-helloworld[12767:1889850] [data] - Received data: {
     context = response;
     messageCount = 3;
     status = OK;
 }
-2015-05-19 17:23:34.871 primus-obj-swift-helloworld[12767:1889850] [data] - Received data: {
+2015-05-19 17:23:34.871 primus-objc-swift-helloworld[12767:1889850] [data] - Received data: {
     context = user;
     from = "30a2046f-11a8-466a-b6da-9ab934590427";
     message = "HelloWorld from Swift!";
