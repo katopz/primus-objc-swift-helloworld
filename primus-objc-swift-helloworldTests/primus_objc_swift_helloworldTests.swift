@@ -1,15 +1,15 @@
 //
-//  primus_obj_swift_helloworldTests.swift
-//  primus-obj-swift-helloworldTests
+//  primus_objc_swift_helloworldTests.swift
+//  primus-objc-swift-helloworldTests
 //
-//  Created by katopz on 5/18/2558 BE.
+//  Created by katopz on 5/21/2558 BE.
 //  Copyright (c) 2558 Debokeh. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class primus_obj_swift_helloworldTests: XCTestCase {
+class primus_objc_swift_helloworldTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
