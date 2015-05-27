@@ -1,5 +1,5 @@
 # primus-objc-swift-helloworld
-Hello world [Primus](https://github.com/primus/primus) with Swift bridge with [Objective-C](https://github.com/seegno/primus-objc) via [ActionHeroJS](http://www.actionherojs.com/)
+Hello World [Primus](https://github.com/primus/primus) with Swift bridge with [Objective-C](https://github.com/seegno/primus-objc) via [ActionHeroJS](http://www.actionherojs.com/)
 ![ActionHeroJS](https://cloud.githubusercontent.com/assets/97060/7701128/46d71f9e-fe4e-11e4-83b5-923603acd917.png)
 Prerequisite
 ---
@@ -21,7 +21,7 @@ Install pod (in `primus-objc-swift-helloworld` folder)
 ```shell
 $ pod install
 ```
-*But it seem like pod is not in love with Swift yet so try to copy all folders in Pods folder to Swift project as refferrence.
+*But it seem like pod is not in love with Swift yet so try to copy all folders in Pods folder to Swift project as referrence.
 
 Start ActionHeroJS Server (in `ActionHeroJS` folder)
 ```shell
